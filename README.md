@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on backend and full-stack development.
 - 💬 I'm interested in multiple trending techniques including cloud computing, distributed system and hoping to become a experienced architect in my future career, so that I can utilize my knowledge to help everyone live a better life.
 - 📫 How to reach me: jianxiz3@uci.edu
-- ✨ Leetcode page: https://leetcode.com/Andyz123/
+- ✨ Leetcode page: [LeetCode](https://leetcode.com/Andyz123/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is like a boat.
 
